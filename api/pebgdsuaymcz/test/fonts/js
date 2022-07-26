@@ -1,0 +1,5 @@
+WebFont.load({
+        google: {
+        families: ["Inter:400,700","Work+Sans:400,700"],
+    },
+        });
